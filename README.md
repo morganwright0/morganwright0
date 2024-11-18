@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Morgan and I'm a ServiceNow Technical Consultant from Worcester, UK</h2>
+<h2 align="left">Hi 👋! My name is Morgan and I'm a ServiceNow Technical Consultant from the UK</h2>
 
 ###
 
@@ -34,11 +34,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/morganwright0/morganwright0/output/snake.svg" alt="Snake animation" />
 
 ###
